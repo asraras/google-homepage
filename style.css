@@ -46,7 +46,7 @@ li a:hover:not(.active) {
 	box-shadow: 0 1px 2px 0.5px #ccc;
 	background-size: 30px;
 	background-position: 98% 50%;
-	font-size: 16px;
+	font-size: 16px; 
 }
 .search_button{
 	width: 132.922px;
